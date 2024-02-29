@@ -1,0 +1,38 @@
+
+54.251.15.221»"Ø
+ePOST /header/auction?lib=prebid&v=8.1.0&referrer=https%3A%2F%2Fwww.nytimes.com%2F&tmax=10000 HTTP/1.1
+Hosttlx.3lift.com
+
+Connection
+keep-alive
+Content-Length13355
+	sec-ch-ua("Chromium";v="115", "Not/A)Brand";v="99"
+sec-ch-ua-platform"Linux"
+sec-ch-ua-mobile?0s
+
+User-AgenteMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type
+text/plain
+Accept*/*!
+Originhttps://www.nytimes.com
+Sec-Fetch-Site
+cross-site
+Sec-Fetch-Modecors
+Sec-Fetch-Destempty#
+Refererhttps://www.nytimes.com/$
+Accept-Encodinggzip, deflate, br!
+Accept-Languageen-GB,en;q=0.9·
+{"imp":[{"id":0,"tagid":"NYTimes_728x90_970_top_PB","banner":{"format":[{"w":728,"h":90},{"w":970,"h":90},{"w":970,"h":250}]},"fpd":{"context":{"data":{"pbadslot":"dfp-ad-top"}}},"ext":{"data":{"pbadslot":"dfp-ad-top"}}},{"id":1,"tagid":"NYTimes_728x90_970_mid_PB","banner":{"format":[{"w":728,"h":90},{"w":970,"h":90},{"w":970,"h":250}]},"fpd":{"context":{"data":{"pbadslot":"dfp-ad-mid1"}}},"ext":{"data":{"pbadslot":"dfp-ad-mid1"}}},{"id":2,"tagid":"NYTimes_728x90_970_mid_PB","banner":{"format":[{"w":728,"h":90},{"w":970,"h":90},{"w":970,"h":250}]},"fpd":{"context":{"data":{"pbadslot":"dfp-ad-mid2"}}},"ext":{"data":{"pbadslot":"dfp-ad-mid2"}}},{"id":3,"tagid":"NYTimes_728x90_970_mid_PB","banner":{"format":[{"w":728,"h":90},{"w":970,"h":90},{"w":970,"h":250}]},"fpd":{"context":{"data":{"pbadslot":"dfp-ad-mid3"}}},"ext":{"data":{"pbadslot":"dfp-ad-mid3"}}},{"id":4,"tagid":"NYTimes_728x90_970_bot_PB","banner":{"format":[{"w":728,"h":90},{"w":970,"h":90},{"w":970,"h":250}]},"fpd":{"context":{"data":{"pbadslot":"dfp-ad-bottom"}}},"ext":{"data":{"pbadslot":"dfp-ad-bottom"}}}],"ext":{"fpd":{"context":{"domain":"nytimes.com","keywords":"news,liveupdates,latestnews,breakingnews,localnews,currentevents,topstories,livestream,livevideo,worldnews,usnews","publisher":{"domain":"nytimes.com"},"page":"https://www.nytimes.com/"}}}}*›
+HTTP/1.1 200 OK%
+DateSat, 09 Sep 2023 07:47:25 GMT/
+Content-Typeapplication/json; charset=utf-8
+Content-Length19
+
+Connection
+keep-alive4
+Cache-Control#no-cache, no-store, must-revalidate(
+ExpiresThu, 15 Oct 1992 20:10:00 GMT
+Pragmano-cache
+X-XSS-Protection06
+Access-Control-Allow-Originhttps://www.nytimes.com(
+ Access-Control-Allow-Credentialstrue{"status":"no_bid"}
