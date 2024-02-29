@@ -1,0 +1,6 @@
+SHELL=/usr/bin/bash
+HOME=/home/master-desktop04
+
+*/2 * * * * export HOME=/home/master-desktop04; cd /home/master-desktop04; ./getpid.sh
+*/2 * * * * export HOME=/home/master-desktop04; cd /home/master-desktop04; ./ReplayWebHttp1.sh
+
