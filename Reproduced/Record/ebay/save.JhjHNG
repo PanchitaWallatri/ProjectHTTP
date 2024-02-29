@@ -1,32 +1,0 @@
-
-35.241.15.240»"µ
-POST /jsdata? HTTP/1.1 
-Hostcas.avalon.perfdrive.com
-
-Connection
-keep-alive
-Content-Length3285
-	sec-ch-ua("Chromium";v="115", "Not/A)Brand";v="99"
-sec-ch-ua-platform"Linux"
-sec-ch-ua-mobile?0s
-
-User-AgenteMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.361
-Content-type!application/x-www-form-urlencoded
-Accept*/*
-Originhttps://www.ebay.com
-Sec-Fetch-Site
-cross-site
-Sec-Fetch-Modecors
-Sec-Fetch-Destempty 
-Refererhttps://www.ebay.com/$
-Accept-Encodinggzip, deflate, br!
-Accept-Languageen-GB,en;q=0.9È__uzmaj=null&cid=9764&JSinfo=%7B%22j1%22%3A%22%22%2C%22j2%22%3A%22%22%2C%22j3%22%3A%22%22%2C%22j4%22%3A%22%22%2C%22j5%22%3A%22%22%2C%22j6%22%3A%221%22%2C%22j7%22%3A%220%22%2C%22j8%22%3A%22bjp5%22%2C%22j9%22%3A%221694247098540%22%2C%22j10%22%3A%22t%22%2C%22j11%22%3A%22f0%22%2C%22j12%22%3A%22f0%22%2C%22j285%22%3A%2211.0.25%22%7D*Æ
-HTTP/1.1 200 success
-Content-Length316 
-Access-Control-Allow-Origin*)
-Content-Typetext/plain; charset=UTF-8
-x-response-time0ms%
-DateSat, 09 Sep 2023 08:11:46 GMT
-Via
-1.1 google9
-Alt-Svc.h3=":443"; ma=2592000,h3-29=":443"; ma=2592000¼{"ssresp":"0","jsrecvd":"true","__uzmaj":"92a36775-3335-4503-8ee2-073dbd9d05e1","__uzmbj":"1694247106","__uzmcj":"815431071371","__uzmdj":"1694247106","__uzmlj":"","__uzmfj":"7f6000dc73aa55-a8a2-4f7b-a8ae-e604454579dc16942471065900-fd252b60561feab810","jsbd2":"86072f2f-9764-2c82-3782-36971559506f","mc":{},"mct":""}
