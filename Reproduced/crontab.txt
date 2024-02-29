@@ -1,0 +1,4 @@
+SHELL=/usr/bin/bash
+HOME=/home/mahimahi
+
+*/2 * * * * export HOME=/home/mahimahi; cd /home/mahimahi; ./ReplayWeb.sh
