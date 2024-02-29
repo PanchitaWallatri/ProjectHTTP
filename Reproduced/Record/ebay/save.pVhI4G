@@ -1,0 +1,32 @@
+
+35.241.15.240»"Ö
+POST /jsdata? HTTP/1.1 
+Hostcas.avalon.perfdrive.com
+
+Connection
+keep-alive
+Content-Length20245
+	sec-ch-ua("Chromium";v="115", "Not/A)Brand";v="99"
+sec-ch-ua-platform"Linux"
+sec-ch-ua-mobile?0s
+
+User-AgenteMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.361
+Content-type!application/x-www-form-urlencoded
+Accept*/*
+Originhttps://www.ebay.com
+Sec-Fetch-Site
+cross-site
+Sec-Fetch-Modecors
+Sec-Fetch-Destempty 
+Refererhttps://www.ebay.com/$
+Accept-Encodinggzip, deflate, br!
+Accept-Languageen-GB,en;q=0.9ècid=bjp5&et=83&JSinfo=%7B%22j62%22%3A%228%22%2C%22j63%22%3A%224%22%2C%22j64%22%3A%222%22%2C%22j65%22%3A%225%22%2C%22j66%22%3A%22Webkit%22%2C%22j67%22%3A%22Chrome%22%2C%22j68%22%3A%22f1%22%2C%22j69%22%3A%22NotEnabled%22%2C%22j70%22%3A%22undefined%22%2C%22j71%22%3A%22undefined%22%2C%22j72%22%3A%221442%22%2C%22j73%22%3A%22707%22%2C%22j74%22%3A%221414%22%2C%22j75%22%3A%222718%22%2C%22j76%22%3A%222302%22%2C%22j77%22%3A%22693%22%2C%22j78%22%3A%22434%22%2C%22j79%22%3A%22-1%22%2C%22j80%22%3A%229%22%2C%22j81%22%3A%22-8%22%2C%22j82%22%3A%224404%22%2C%22j83%22%3A%221006%22%2C%22j84%22%3A%22JiMhbCQ%3D%22%2C%22j86%22%3A%22t%22%2C%22j87%22%3A%22t%22%2C%22j88%22%3A%22t%22%2C%22j89%22%3A%22t%22%2C%22j90%22%3A%22t%22%2C%22j91%22%3A%22t%22%2C%22j92%22%3A%22t%22%2C%22j93%22%3A%22f0%22%2C%22j94%22%3A%22t%22%2C%22j95%22%3A%22t%22%2C%22j96%22%3A%22t%22%2C%22j97%22%3A%22f0%22%2C%22j98%22%3A%22f0%22%2C%22j100%22%3A%22f0%22%2C%22j101%22%3A%22t%22%2C%22j102%22%3A%22%5E%3A%2B%3B%24%22%2C%22j103%22%3A%222%22%2C%22j104%22%3A%22t%22%2C%22j105%22%3A%22t%22%2C%22j106%22%3A%22f0%22%2C%22j109%22%3A%222%22%2C%22j110%22%3A%22%24L%22%2C%22j111%22%3A%22%40lp%22%2C%22j112%22%3A%22t%22%2C%22j114%22%3A%22quis%22%2C%22j115%22%3A%220%22%2C%22j116%22%3A%22t%22%2C%22j118%22%3A%22t%22%2C%22j119%22%3A%22t%22%2C%22j120%22%3A%22218%22%2C%22j121%22%3A%2221%22%2C%22j122%22%3A%22l%22%2C%22j123%22%3A%22f%22%2C%22j124%22%3A%221.797%2B308%22%2C%22j125%22%3A%22900740991%22%2C%22j126%22%3A%225e-324%22%2C%22j127%22%3A%22-900-40991%22%2C%22j128%22%3A%22t%22%2C%22j129%22%3A%222%22%2C%22j130%22%3A%22t%22%2C%22j131%22%3A%22t%22%2C%22j133%22%3A%22t%22%2C%22j134%22%3A%22t%22%2C%22j135%22%3A%22t%22%2C%22j136%22%3A%22undefined%7Cundefined%7Cundefined%22%2C%22j137%22%3A%22bjp5%22%2C%22j138%22%3A%22f0%22%2C%22j139%22%3A%22f0%22%2C%22j140%22%3A%22f0%22%2C%22j141%22%3A%22f0%22%2C%22j285%22%3A%2211.0.25%22%2C%22j288%22%3A%22Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F115.0.0.0%20Safari%2F537.36%22%7D*Ý
+HTTP/1.1 200 success
+Content-Length211 
+Access-Control-Allow-Origin*)
+Content-Typetext/plain; charset=UTF-8
+x-response-time0ms%
+DateSat, 09 Sep 2023 08:11:39 GMT
+Via
+1.1 google9
+Alt-Svc.h3=":443"; ma=2592000,h3-29=":443"; ma=2592000Ó{"ssresp":"0","jsrecvd":"true","__uzmaj":"e34177c1-c15f-48a1-810f-30f531903cba","__uzmbj":"1694247099","__uzmcj":"959441096771","__uzmdj":"1694247099","__uzmlj":"","jsbd2":"55e62db5-bjp5-bb82-3796-5257231e5703"}
